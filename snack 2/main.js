@@ -25,4 +25,5 @@ for (let i = 0; i < soccerTeams.length; i++) {
   });
 }
 //* stampo in console
+//console.log(soccerTeams);
 console.log(soccerTeamsFouls);
